@@ -1,0 +1,12 @@
+.template:hover{
+    border: 2px solid blue;
+}
+
+.recent:hover{
+    background-color:rgb(228, 228, 228);
+}
+
+.inputfield:focus-within{
+    background-color:#ffff;
+    box-shadow:1px 1px 3px rgba(0, 0, 0, 0.5);
+}
